@@ -3,6 +3,11 @@ pandas
 numpy
 joblib
 scikit-learn==1.6.1
-xgboost
+scikit-learn
 lightgbm
+xgboost
 matplotlib
+plotly
+
+
+
